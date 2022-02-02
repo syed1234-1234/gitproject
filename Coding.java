@@ -3,6 +3,7 @@ public static void main(String []args){
 int lines=10;  
 int i,j;  
 int count;  
+int syed
 for(i=1;i<=lines;i++){// this loop is used to print lines  
 count=0;  
          for(j=1;j<lines;j++){// this loop is used to print numbers in a line  
